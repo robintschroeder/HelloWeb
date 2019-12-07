@@ -1,0 +1,12 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Indie Flower', cursive;
+  margin: 2em;
+  background: gray;
+}
+
+h1 {
+  font-style: italic;
+  color: green;
+}
